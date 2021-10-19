@@ -1,0 +1,56 @@
+body{
+  background-image: url(biriyani.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+ #header{
+  background-color:#5c755e;
+ margin:5px;
+ height:90px;
+
+}
+h1{
+  text-align: center;
+    margin-top:170px;
+    font-size: 40px;
+    font-family: "sacramento",bold;
+    color: black;
+    text-shadow:5px 5px 4px yellow;
+}
+p
+{
+  font-family:"Bahnschrift";
+ color:black;
+ font-weight:Bold;
+
+ font-size:20px;
+}
+ul{
+position:absolute;
+top:4px;
+right:3px;
+}
+#button
+{
+background-color:#e7e7e7;
+border:1px solid;
+border-radius:3px;
+font:700 20px Vedanta;
+height:30px;
+line-height:26px;
+padding:3px 20px;
+text-align:center;
+margin-right:10px;
+box-sizing:border-box;
+text-decoration:none;
+display:inline;
+}
+#but{
+display:inline;
+}
+#button:hover
+{
+color:#000;
+background-color:#dadada;
+}
